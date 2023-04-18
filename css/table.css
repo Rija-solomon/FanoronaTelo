@@ -21,7 +21,7 @@
     height: 2px;
     width: 100%;
     position: absolute;
-    top: 149p.container {
+    top: 149p.container 
     border: 2px solid black;
     width: 300px;
     height: 300px;
@@ -44,7 +44,7 @@
     height: 2px;
     width: 100%;
     position: absolute;
-    top: 149px;
+    top: 75px;
     transform: rotate(90deg);
     transform-origin: center;
 }
