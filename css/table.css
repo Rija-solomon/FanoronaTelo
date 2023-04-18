@@ -1,0 +1,73 @@
+.container {
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 75px;
+    position: relative;
+}
+
+
+.hor {
+    background-color: black;
+    height: 2px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+}
+
+.vert {
+    background-color: black;
+    height: 2px;
+    width: 100%;
+    position: absolute;
+    top: 149p.container {
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 75px;
+    position: relative;
+}
+
+
+.hor {
+    background-color: black;
+    height: 2px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+}
+
+.vert {
+    background-color: black;
+    height: 2px;
+    width: 100%;
+    position: absolute;
+    top: 149px;
+    transform: rotate(90deg);
+    transform-origin: center;
+}
+
+.diag-left{
+    background-color: black;
+    height: 2px;
+    width: 141.42%;
+    position: absolute;
+    top: 149px;
+    left: -64px;
+    transform: rotate(45deg);
+    transform-origin: center;
+}
+
+.diag-right{
+    background-color: black;
+    height: 2px;
+    width: 141.42%;
+    position: absolute;
+    top: 149px;
+    right: -64px;
+    transform: rotate(-45deg);
+    transform-origin: center;
+}
+
